@@ -3,8 +3,11 @@
 
 
 Stacks Used:
+
 DataBase : postgresql
+
 Backend : Node.js
+
 Deployment : Render
 
 
